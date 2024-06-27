@@ -11,9 +11,11 @@
   "dependencies": {
     "autoprefixer": "^10.4.19",
     "postcss-cli": "^11.0.0",
-    "react": "^17.0.2", 
+    "react": "^17.0.2",
+  "react-dom": "^17.0.2",
+  "echarts-for-react": "latest",
     "@asseinfo/react-kanban": "^2.2.0",
-    "react-dom": "^17.0.2", 
+   
     "react-router-dom": "^6.23.1",
     "tailwindcss": "^3.4.4",
     "@mui/material": "^5.15.20",
@@ -23,7 +25,7 @@
    
     "zustand": "^4.1.2",
     "rodal": "^6.0.1",
-   "echarts-for-react": "^4.1.5",
+  
     "material-react-table": "^2.13.0" 
   },
   "devDependencies": {
