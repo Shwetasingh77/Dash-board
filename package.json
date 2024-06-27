@@ -23,7 +23,7 @@
    
     "zustand": "^4.1.2",
     "rodal": "^6.0.1",
-    "echarts-for-react": "^5.3.3", 
+   "echarts-for-react": "^4.1.5",
     "material-react-table": "^2.13.0" 
   },
   "devDependencies": {
